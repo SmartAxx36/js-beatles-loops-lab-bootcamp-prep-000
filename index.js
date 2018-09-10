@@ -20,7 +20,6 @@ function iLoveTheBeatles(number) {
   let knownArray = []
   do { 
     knownArray.push('I love the Beatles!')
-
     number++;
   } while (7 <= number && number < 15)
   
